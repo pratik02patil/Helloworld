@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1281-3066
+
+ Directory of C:\Users\Deepak Patil\Desktop\javaproject
+
+12/12/2018  12:12 AM    <DIR>          .
+12/12/2018  12:12 AM    <DIR>          ..
+12/11/2018  11:18 PM               685 helloworld.class
+12/11/2018  11:18 PM               170 helloworld.java
+12/12/2018  12:12 AM                 0 text1.txt
+               3 File(s)            855 bytes
+               2 Dir(s)  399,853,408,256 bytes free
